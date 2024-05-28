@@ -44,6 +44,11 @@ namespace TestStackApp
             return top == maxSize;
         }
 
+        public int Count()
+        {
+            return top;
+        }
+
 
     }
 }
