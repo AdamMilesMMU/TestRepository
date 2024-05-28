@@ -1,0 +1,8 @@
+C:\Users\55100443\OneDrive - MMU\Teaching\Testing\Repos\TestRepository\TestStackApp\TestStackApp\bin\Debug\TestStackApp.exe.config
+C:\Users\55100443\OneDrive - MMU\Teaching\Testing\Repos\TestRepository\TestStackApp\TestStackApp\bin\Debug\TestStackApp.exe
+C:\Users\55100443\OneDrive - MMU\Teaching\Testing\Repos\TestRepository\TestStackApp\TestStackApp\bin\Debug\TestStackApp.pdb
+C:\Users\55100443\OneDrive - MMU\Teaching\Testing\Repos\TestRepository\TestStackApp\TestStackApp\obj\Debug\TestStackApp.csproj.AssemblyReference.cache
+C:\Users\55100443\OneDrive - MMU\Teaching\Testing\Repos\TestRepository\TestStackApp\TestStackApp\obj\Debug\TestStackApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\55100443\OneDrive - MMU\Teaching\Testing\Repos\TestRepository\TestStackApp\TestStackApp\obj\Debug\TestStackApp.csproj.CoreCompileInputs.cache
+C:\Users\55100443\OneDrive - MMU\Teaching\Testing\Repos\TestRepository\TestStackApp\TestStackApp\obj\Debug\TestStackApp.exe
+C:\Users\55100443\OneDrive - MMU\Teaching\Testing\Repos\TestRepository\TestStackApp\TestStackApp\obj\Debug\TestStackApp.pdb
