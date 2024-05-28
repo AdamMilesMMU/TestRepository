@@ -14,18 +14,19 @@ namespace TestStackApp
 
         public IntStack()
         {
-            
+            store = new int[maxSize];
         }
 
         public IntStack(int maxSize)
         {
             this.maxSize = maxSize;
+            store = new int[maxSize];
         }
 
 
         public void Push(int value)
         {
-            throw new NotImplementedException();
+            store[top++] = value;
         }
 
         public int Pop()
@@ -41,7 +42,7 @@ namespace TestStackApp
 
         public bool IsFull()
         {
-            throw new NotImplementedException();
+            return top == maxSize;
         }
 
         public int Count()

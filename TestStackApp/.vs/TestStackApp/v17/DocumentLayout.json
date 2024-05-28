@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{C9557E87-D365-4EE7-B8AE-13A77B129B3B}|TestStackApp\\TestStackApp.csproj|solutionrelative:teststackapp\\intstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C9557E87-D365-4EE7-B8AE-13A77B129B3B}|TestStackApp\\TestStackApp.csproj|c:\\users\\adam\\source\\gitrepos\\testrepository\\teststackapp\\teststackapp\\testcases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9557E87-D365-4EE7-B8AE-13A77B129B3B}|TestStackApp\\TestStackApp.csproj|solutionrelative:teststackapp\\testcases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C9557E87-D365-4EE7-B8AE-13A77B129B3B}|TestStackApp\\TestStackApp.csproj|c:\\users\\adam\\source\\gitrepos\\testrepository\\teststackapp\\teststackapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9557E87-D365-4EE7-B8AE-13A77B129B3B}|TestStackApp\\TestStackApp.csproj|solutionrelative:teststackapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,11 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestCases.cs",
+              "DocumentMoniker": "C:\\Users\\Adam\\source\\GitRepos\\TestRepository\\TestStackApp\\TestStackApp\\TestCases.cs",
+              "RelativeDocumentMoniker": "TestStackApp\\TestCases.cs",
+              "ToolTip": "C:\\Users\\Adam\\source\\GitRepos\\TestRepository\\TestStackApp\\TestStackApp\\TestCases.cs",
+              "RelativeToolTip": "TestStackApp\\TestCases.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAcwDwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:33:57.448Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -32,14 +49,14 @@
               "RelativeDocumentMoniker": "TestStackApp\\IntStack.cs",
               "ToolTip": "C:\\Users\\Adam\\source\\GitRepos\\TestRepository\\TestStackApp\\TestStackApp\\IntStack.cs",
               "RelativeToolTip": "TestStackApp\\IntStack.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAdAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABYAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T14:27:23.735Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Adam\\source\\GitRepos\\TestRepository\\TestStackApp\\TestStackApp\\Program.cs",
               "RelativeDocumentMoniker": "TestStackApp\\Program.cs",
